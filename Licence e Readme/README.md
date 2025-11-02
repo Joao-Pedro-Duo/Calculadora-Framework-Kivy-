@@ -48,9 +48,10 @@ Instale as dependências:
 
 
 Execute o aplicativo:
+```bash
+python main.py
 
-`python main.py`
-
+---
 
 ## 🎯 Objetivo Acadêmico
 Este projeto foi desenvolvido com o propósito de demonstrar o uso prático do Kivy na criação de aplicativos móveis multiplataforma, aplicando conceitos de interfaces gráficas, lógica de programação e usabilidade.
