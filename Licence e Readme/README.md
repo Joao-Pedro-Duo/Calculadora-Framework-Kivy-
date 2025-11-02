@@ -38,18 +38,20 @@ O sistema conta com:
 ## 🚀 Como Executar  
 
 Clone este repositório:  
-
-`git clone https://github.com/seu-usuario/calculadora-kivy.git
-cd calculadora-kivy `
+```bash
+git clone https://github.com/seu-usuario/Calculadora-Framework-Kivy-.git
+cd calculadora-kivy 
+```
 
 Instale as dependências:
-
-`pip install kivy`
-
+```bash
+pip install kivy
+```
 
 Execute o aplicativo:
 ```bash
 python main.py
+```
 
 ---
 
